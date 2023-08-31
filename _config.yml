@@ -20,7 +20,7 @@ title                    : "고종현의 치매 예방 블로그"
 title_separator          : "|"
 subtitle                 : "My life, goals, and stories"# site tagline that appears below site title in masthead
 name                     : "고종현"
-description              : "나중에 기억을 잃은 나를 위해 블로그를 씁니다."
+description              : "미래에 기억을 잃은 나를 위해서 블로그를 씁니다."
 url                      : "https://rhwhdgus.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /images/aaa.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
